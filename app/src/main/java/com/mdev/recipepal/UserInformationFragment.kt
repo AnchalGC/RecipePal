@@ -11,6 +11,7 @@ class UserInformationFragment : Fragment() {
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         // Inflate the layout for this fragment
+        //testing
         val view =  inflater.inflate(R.layout.fragment_user_information, container, false)
 
         return view
